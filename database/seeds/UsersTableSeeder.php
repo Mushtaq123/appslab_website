@@ -15,8 +15,8 @@ class UsersTableSeeder extends Seeder
         $faker = Faker\Factory::create(); 
         User::truncate();
 		User::create([
-			'first_name' => 'Chad Dylan',
-			'last_name' => 'Cooper',
+			'first_name' => 'David',
+			'last_name' => 'Wizag',
 			'birthday' => $faker->date($format = 'Y-m-d', $max = 'now'),
 			'gender' => $faker->randomElement(['M', 'F']),
 			'email' => 'louielapig@gmail.com',

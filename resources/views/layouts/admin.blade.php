@@ -3,7 +3,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>Laravel Human Resource Management</title>
+	<title>CloudHr</title>
 	<meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
 	<link rel="stylesheet" href="{{ asset('/bootstrap/css/bootstrap.min.css') }}">
 	<link rel="stylesheet" href="{{ asset('/dist/css/font-awesome.min.css') }}">
@@ -17,8 +17,8 @@
 	<div class="wrapper">
 		<header class="main-header">
 			<a href="{{ url('/') }}" class="logo">
-				<span class="logo-mini"><b>L</b>hrm</span>
-				<span class="logo-lg"><b>Lara</b>hrm</span>
+				<span class="logo-mini"><b>C-</b>hr</span>
+				<span class="logo-lg"><b>Cloud</b>hr</span>
 			</a>
 
 			<nav class="navbar navbar-static-top" role="navigation">
